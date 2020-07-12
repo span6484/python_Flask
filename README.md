@@ -19,7 +19,7 @@ which python3.7.sh
 ```bash
  sudo pip3 install virtualenvwrapper
  source virtualenvrapper.sh        
- mkvirtualenv safdas
+ mkvirtualenv safdas    #创建一个虚拟环境
  deactivate
  vi ~/.bash_profile
 
