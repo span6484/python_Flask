@@ -13,7 +13,8 @@ ex: (house4)://.../pip install pymysql
 3. pip install django==2.0          // django==2.0 是举例的安装django2.0版本
 4. deactivate           //退出
 
-* 常见命令
+* 常见虚拟环境命令
+0. 虚拟环境名字 mkvirtualenv
 1. 进入环境     workon 环境名
 2. 退出         deactivate
 3. 删除         rmvirtualenv   环境名
