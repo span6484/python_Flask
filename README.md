@@ -35,6 +35,8 @@ export WIRTUALEMVWRAPPER_PYTHON=/usr/local/bin/python3.7
 source /usr/local/bin/virtualenvwrapper.sh
 # Enter :wq     (保存并退出)
 -----------------------------
-
+##运行， 先在terminla
 source ~/.bash_profile
+mkvirtualenv -p python3.7 test       #创建叫test的虚拟环境
 ```
+* 进入pycharm， createprojec， flask， 详见day02
